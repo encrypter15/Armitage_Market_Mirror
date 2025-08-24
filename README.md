@@ -3,7 +3,7 @@
 ## Overview
 Armitage Market Mirror is a Python-based web scraper that collects product listings for Armitage products from eBay and Amazon, performs fuzzy matching to identify relevant listings, stores data in a SQLite database, and exports results to a CSV file. It analyzes pricing, keywords, and listing trends to provide market insights, such as average prices, low-price listings, and popular keywords. The tool is designed for market intelligence, helping users identify pricing and listing gaps for competitive positioning.
 
-- **Developer**: DataScraperX (encrypter15@gmail.com)
+- **Developer**: Encrypter15 (encrypter15@gmail.com)
 - **License**: MIT
 - **Version**: 1.0.4
 - **Last Updated**: August 24, 2025
