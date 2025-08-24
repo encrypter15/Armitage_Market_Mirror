@@ -23,8 +23,8 @@ Armitage Market Mirror is a Python-based web scraper that collects product listi
 ## Installation
 1. **Clone the Repository** (if applicable):
    ```bash
-   git clone [https://github.com/encrypter15/](https://github.com/encrypter15/Armitage_Market_Mirror/tree/main)
-   cd armitage-market-mirror
+   git clone https://github.com/encrypter15/Armitage_Market_Mirror
+   cd Armitage-Market-Mirror
 Create a Virtual Environment (recommended):
 python -m venv venv
 source venv/bin/activate  # On Windows: venv\Scripts\activate
