@@ -1,0 +1,7 @@
+### requirements.txt
+text
+requests==2.31.0
+beautifulsoup4==4.12.3
+pandas==2.2.2
+fuzzywuzzy==0.18.0
+python-Levenshtein==0.25.1
